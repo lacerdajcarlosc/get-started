@@ -103,6 +103,3 @@ Pull requests são bem-vindos! Para mudanças maiores, abra uma issue antes para
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
